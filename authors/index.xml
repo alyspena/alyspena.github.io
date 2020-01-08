@@ -1,25 +1,88 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Academic</title>
-    <link>https://&lt;USERNAME&gt;.github.io/authors/</link>
-      <atom:link href="https://<USERNAME>.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <title>Authors | Alyssa Peña</title>
+    <link>https://alyspena.github.io/authors/</link>
+      <atom:link href="https://alyspena.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 26 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://&lt;USERNAME&gt;.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://alyspena.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
-      <link>https://&lt;USERNAME&gt;.github.io/authors/</link>
+      <link>https://alyspena.github.io/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>https://&lt;USERNAME&gt;.github.io/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://&lt;USERNAME&gt;.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+      <link>https://alyspena.github.io/authors/admin/</link>
+      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://alyspena.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I have a B.S. in Civil Engineering and a M.S. in Visualization from Texas A&amp;amp;M. Outside of work, I am participating in Georgia Tech&#39;s Online Master of Science Computer Science program to further expand upon &amp;hellip; In my free time I create traditional artwork, run, bike ride, and explore new places.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Eric D. Ragan</title>
+      <link>https://alyspena.github.io/authors/eric-d.-ragan/</link>
+      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://alyspena.github.io/authors/eric-d.-ragan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julian Kang</title>
+      <link>https://alyspena.github.io/authors/julian-kang/</link>
+      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://alyspena.github.io/authors/julian-kang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andrew Pachuilo</title>
+      <link>https://alyspena.github.io/authors/andrew-pachuilo/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://alyspena.github.io/authors/andrew-pachuilo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ehsanul Nirjhar</title>
+      <link>https://alyspena.github.io/authors/ehsanul-nirjhar/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://alyspena.github.io/authors/ehsanul-nirjhar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theodora Chaspari</title>
+      <link>https://alyspena.github.io/authors/theodora-chaspari/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://alyspena.github.io/authors/theodora-chaspari/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rhema Linder</title>
+      <link>https://alyspena.github.io/authors/rhema-linder/</link>
+      <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://alyspena.github.io/authors/rhema-linder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Jayarathna</title>
+      <link>https://alyspena.github.io/authors/s.-jayarathna/</link>
+      <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://alyspena.github.io/authors/s.-jayarathna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sina Mohseni</title>
+      <link>https://alyspena.github.io/authors/sina-mohseni/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://alyspena.github.io/authors/sina-mohseni/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -1,16 +1,64 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | Academic</title>
-    <link>https://&lt;USERNAME&gt;.github.io/tags/</link>
-      <atom:link href="https://<USERNAME>.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <title>Tags | Alyssa Peña</title>
+    <link>https://alyspena.github.io/tags/</link>
+      <atom:link href="https://alyspena.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 26 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://&lt;USERNAME&gt;.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://alyspena.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
-      <link>https://&lt;USERNAME&gt;.github.io/tags/</link>
+      <link>https://alyspena.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>construction safety</title>
+      <link>https://alyspena.github.io/tags/construction-safety/</link>
+      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://alyspena.github.io/tags/construction-safety/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>educational technology</title>
+      <link>https://alyspena.github.io/tags/educational-technology/</link>
+      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://alyspena.github.io/tags/educational-technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>virtual environments</title>
+      <link>https://alyspena.github.io/tags/virtual-environments/</link>
+      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://alyspena.github.io/tags/virtual-environments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>virtual reality</title>
+      <link>https://alyspena.github.io/tags/virtual-reality/</link>
+      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://alyspena.github.io/tags/virtual-reality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sensemaking</title>
+      <link>https://alyspena.github.io/tags/sensemaking/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://alyspena.github.io/tags/sensemaking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ineractive</title>
+      <link>https://alyspena.github.io/tags/ineractive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alyspena.github.io/tags/ineractive/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

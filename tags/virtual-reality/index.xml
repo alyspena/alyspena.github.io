@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>virtual reality | Alyssa Peña</title>
+    <link>https://alyspena.github.io/tags/virtual-reality/</link>
+      <atom:link href="https://alyspena.github.io/tags/virtual-reality/index.xml" rel="self" type="application/rss+xml" />
+    <description>virtual reality</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 26 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alyspena.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>virtual reality</title>
+      <link>https://alyspena.github.io/tags/virtual-reality/</link>
+    </image>
+    
+    <item>
+      <title>Designing Educational Virtual Environments for Construction Safety: A Case Study in Contextualizing Incident Reports and Engaging Learners. Virtual, Augmented and Mixed Reality</title>
+      <link>https://alyspena.github.io/publication/constdesign/</link>
+      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://alyspena.github.io/publication/constdesign/</guid>
+      <description>&lt;!-- Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

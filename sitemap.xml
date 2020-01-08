@@ -3,39 +3,152 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://&lt;USERNAME&gt;.github.io/authors/admin/</loc>
+    <loc>https://alyspena.github.io/authors/admin/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://&lt;USERNAME&gt;.github.io/</loc>
+    <loc>https://alyspena.github.io/publication_types/0/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://&lt;USERNAME&gt;.github.io/authors/</loc>
+    <loc>https://alyspena.github.io/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://&lt;USERNAME&gt;.github.io/categories/</loc>
+    <loc>https://alyspena.github.io/authors/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://&lt;USERNAME&gt;.github.io/post/</loc>
+    <loc>https://alyspena.github.io/tags/construction-safety/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://&lt;USERNAME&gt;.github.io/publication_types/</loc>
+    <loc>https://alyspena.github.io/publication/constdesign/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://&lt;USERNAME&gt;.github.io/publication/</loc>
+    <loc>https://alyspena.github.io/tags/educational-technology/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://&lt;USERNAME&gt;.github.io/talk/</loc>
+    <loc>https://alyspena.github.io/authors/eric-d.-ragan/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://&lt;USERNAME&gt;.github.io/tags/</loc>
+    <loc>https://alyspena.github.io/authors/julian-kang/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alyspena.github.io/publication_types/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alyspena.github.io/publication/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alyspena.github.io/tags/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alyspena.github.io/tags/virtual-environments/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alyspena.github.io/tags/virtual-reality/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alyspena.github.io/authors/andrew-pachuilo/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alyspena.github.io/publication/provdetect/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alyspena.github.io/authors/ehsanul-nirjhar/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alyspena.github.io/tags/sensemaking/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alyspena.github.io/authors/theodora-chaspari/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alyspena.github.io/publication/logprovenance/</loc>
+    <lastmod>2017-10-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alyspena.github.io/authors/rhema-linder/</loc>
+    <lastmod>2017-10-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alyspena.github.io/authors/s.-jayarathna/</loc>
+    <lastmod>2017-10-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alyspena.github.io/publication/provthreadsp/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alyspena.github.io/authors/sina-mohseni/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alyspena.github.io/publication/constcontext/</loc>
+    <lastmod>2017-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alyspena.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alyspena.github.io/tags/ineractive/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alyspena.github.io/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alyspena.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alyspena.github.io/slides/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alyspena.github.io/slides/construction_context/</loc>
   </url>
   
 </urlset>
