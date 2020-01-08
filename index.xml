@@ -62,21 +62,107 @@
       <link>https://alyspena.github.io/project/internal-project/</link>
       <pubDate>Sat, 18 Mar 2017 00:00:00 +0000</pubDate>
       <guid>https://alyspena.github.io/project/internal-project/</guid>
-      <description>&lt;p&gt;The purpose of this research was to understand how to contextualize information visually, textually, and spacially.&lt;/p&gt;
-
+      <description> &lt;!-- The purpose of this research was to understand how to contextualize information visually, textually, and spacially. --&gt;
+&lt;p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/Qj1yGvuwGvs&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-</description>
-    </item>
+&lt;/br&gt;&lt;/p&gt;
+&lt;div style=&#34;font-size=20px&#34;&gt;Image Gallery&lt;/div&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
     
-    <item>
-      <title>External Project</title>
-      <link>https://alyspena.github.io/project/external-project/</link>
-      <pubDate>Sat, 18 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://alyspena.github.io/project/external-project/</guid>
-      <description></description>
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-const_context&#34; data-caption=&#34;A timeline depicting events that led up to the incident.&#34; href=&#34;https://alyspena.github.io/img/const_context/c01_timeEvents.png&#34;&gt;
+    &lt;img data-src=&#34;https://alyspena.github.io/img/const_context/c01_timeEvents.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-const_context&#34; data-caption=&#34;Desktop Version (left), VR Version (right)&#34; href=&#34;https://alyspena.github.io/img/const_context/interfaceChanges.png&#34;&gt;
+    &lt;img data-src=&#34;https://alyspena.github.io/img/const_context/interfaceChanges.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-const_context&#34; data-caption=&#34;Levels of Interactive Control: (a) Directed (b) Guided (c) Active&#34; href=&#34;https://alyspena.github.io/img/const_context/navigation.png&#34;&gt;
+    &lt;img data-src=&#34;https://alyspena.github.io/img/const_context/navigation.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-const_context&#34; data-caption=&#34;Warping to Location on Map (left), Accessing Menu (right)&#34; href=&#34;https://alyspena.github.io/img/const_context/vr_map_menu.png&#34;&gt;
+    &lt;img data-src=&#34;https://alyspena.github.io/img/const_context/vr_map_menu.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+&lt;/div&gt;
+&lt;!-- 
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+&lt;/div&gt; --&gt;
+</description>
     </item>
     
     <item>
