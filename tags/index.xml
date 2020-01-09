@@ -7,7 +7,7 @@
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 26 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://alyspena.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://alyspena.github.io/images/icon_hu35f8ec03ddc067752987391efe7b8dc3_68319_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
       <link>https://alyspena.github.io/tags/</link>
     </image>
@@ -55,8 +55,16 @@
     <item>
       <title>Interactive</title>
       <link>https://alyspena.github.io/tags/interactive/</link>
-      <pubDate>Sat, 18 Mar 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       <guid>https://alyspena.github.io/tags/interactive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Media</title>
+      <link>https://alyspena.github.io/tags/media/</link>
+      <pubDate>Sat, 18 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://alyspena.github.io/tags/media/</guid>
       <description></description>
     </item>
     
