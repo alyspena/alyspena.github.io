@@ -5,12 +5,21 @@
     <link>https://alyspena.github.io/tags/interactive/</link>
       <atom:link href="https://alyspena.github.io/tags/interactive/index.xml" rel="self" type="application/rss+xml" />
     <description>Interactive</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 26 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://alyspena.github.io/images/icon_hu35f8ec03ddc067752987391efe7b8dc3_68319_512x512_fill_lanczos_center_2.png</url>
       <title>Interactive</title>
       <link>https://alyspena.github.io/tags/interactive/</link>
     </image>
+    
+    <item>
+      <title>Designing Educational Virtual Environments for Construction Safety: A Case Study in Contextualizing Incident Reports and Engaging Learners. Virtual, Augmented and Mixed Reality</title>
+      <link>https://alyspena.github.io/publication/constdesign/</link>
+      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://alyspena.github.io/publication/constdesign/</guid>
+      <description>&lt;!-- Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
     
     <item>
       <title>Memorability of Enhanced Informational Graphics</title>
@@ -84,17 +93,28 @@
     </item>
     
     <item>
+      <title>Contextualizing Construction Accident Reports in Virtual Environments for Safety Education</title>
+      <link>https://alyspena.github.io/publication/constcontext/</link>
+      <pubDate>Sat, 18 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://alyspena.github.io/publication/constcontext/</guid>
+      <description>&lt;!-- Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Contextualizing Construction Incident Reports</title>
       <link>https://alyspena.github.io/project/const_context/</link>
       <pubDate>Sat, 18 Mar 2017 00:00:00 +0000</pubDate>
       <guid>https://alyspena.github.io/project/const_context/</guid>
       <description> &lt;!-- The purpose of this research was to understand how to contextualize information visually, textually, and spacially. --&gt;
+&lt;p&gt;In this research, we study the design of an application to represent construction accident reports provided by the Occupational Health and Safety Administration (OSHA).&lt;/br&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/Qj1yGvuwGvs&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;/br&gt;&lt;/p&gt;
+&lt;/br&gt;
+&lt;a href=&#34;https://oaktrust.library.tamu.edu/handle/1969.1/161647&#34;&gt;Master&#39;s Thesis Paper&lt;/a&gt;&lt;/p&gt;
 &lt;div style=&#34;font-size:20px&#34;&gt;Image Gallery&lt;/div&gt;
 
 
