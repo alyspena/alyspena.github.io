@@ -28,6 +28,9 @@
       <guid>https://alyspena.github.io/project/infosigns/</guid>
       <description> &lt;!-- The purpose of this research was to understand how to contextualize information visually, textually, and spacially. --&gt;
 &lt;p&gt;We aim to extend research regarding memorability of infographic embellishments by providing empirical results over how the type of aesthetic embellishments influences memory, and what informational and data elements are remembered from a visualization.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://journals.shareok.org/ijsw/issue/view/7/20&#34;&gt;Memorability of Enhanced Informational Graphics: the effects of design relevance and chart type on recall (page 20)&lt;/a&gt;&lt;/p&gt;
+&lt;!-- &lt;div style=&#34;font-size:20px&#34;&gt;Interactive Chart Manipulation&lt;/div&gt;
+[DISCUSS DESIGN CHALLENGES of Line Charts (exponential function), Pie Charts (redistributing percentages)] --&gt;
 &lt;/br&gt;
 &lt;div style=&#34;font-size:20px&#34;&gt;Image Gallery&lt;/div&gt;
 
@@ -58,8 +61,41 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-infosigns&#34; data-caption=&#34;Example line, pie, and bar charts for each embellishment type.&#34; href=&#34;https://alyspena.github.io/img/infosigns/chartCombinations.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-infosigns&#34; data-caption=&#34;Example line, pie, and bar charts for each embellishment type.s&#34; href=&#34;https://alyspena.github.io/img/infosigns/chartCombinations.png&#34;&gt;
     &lt;img data-src=&#34;https://alyspena.github.io/img/infosigns/chartCombinations.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-infosigns&#34; data-caption=&#34;Example of bar chart from interactive module.&#34; href=&#34;https://alyspena.github.io/img/infosigns/barGif.gif&#34;&gt;
+    &lt;img data-src=&#34;https://alyspena.github.io/img/infosigns/barGif.gif&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-infosigns&#34; data-caption=&#34;Example of line chart from interactive module.&#34; href=&#34;https://alyspena.github.io/img/infosigns/lineGif.gif&#34;&gt;
+    &lt;img data-src=&#34;https://alyspena.github.io/img/infosigns/lineGif.gif&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-infosigns&#34; data-caption=&#34;Example of pie chart from interactive module.&#34; href=&#34;https://alyspena.github.io/img/infosigns/pieGif.gif&#34;&gt;
+    &lt;img data-src=&#34;https://alyspena.github.io/img/infosigns/pieGif.gif&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
   
